@@ -1,0 +1,21 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/semanticash/cli/releases/download/v0.3.0/semantica_windows_amd64.zip",
+            "bin": [
+                "semantica.exe"
+            ],
+            "hash": "a78649cd4c11ae56c951b2609293933b138aab3834f99e235179ef8f566f6bec"
+        },
+        "arm64": {
+            "url": "https://github.com/semanticash/cli/releases/download/v0.3.0/semantica_windows_arm64.zip",
+            "bin": [
+                "semantica.exe"
+            ],
+            "hash": "45237ac4539b75b161f3645147165ab9f0033eaf3e1e24a56bbb99233763070a"
+        }
+    },
+    "homepage": "https://www.semantica.sh",
+    "description": "Observability and control for AI-assisted development"
+}
