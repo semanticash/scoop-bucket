@@ -1,19 +1,19 @@
 {
-    "version": "0.3.5",
+    "version": "0.3.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/semanticash/cli/releases/download/v0.3.5/semantica_windows_amd64.zip",
+            "url": "https://github.com/semanticash/cli/releases/download/v0.3.6/semantica_windows_amd64.zip",
             "bin": [
                 "semantica.exe"
             ],
-            "hash": "0564914475395b0d88cae79a8705c768557c8ecc7b46c04010e7ec8e275389a5"
+            "hash": "920ea1d3cc32cb994a378afa79844955272dc76130a556e2cb32657bb3820601"
         },
         "arm64": {
-            "url": "https://github.com/semanticash/cli/releases/download/v0.3.5/semantica_windows_arm64.zip",
+            "url": "https://github.com/semanticash/cli/releases/download/v0.3.6/semantica_windows_arm64.zip",
             "bin": [
                 "semantica.exe"
             ],
-            "hash": "4029d50119f102cc55ee19d6fc93a55b40eb2d5e1d9c272dc3067640ed7eab54"
+            "hash": "8de8b13b8a9a7176c70680d32f2ea359690b3a25ddb6520e9650d550801fe180"
         }
     },
     "homepage": "https://www.semantica.sh",
